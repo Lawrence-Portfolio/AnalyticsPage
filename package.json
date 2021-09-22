@@ -1,0 +1,29 @@
+{
+  "name": "cpsi",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.4",
+    "ant-design-vue": "^1.7.2",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "chart.js": "^2.9.4",
+    "core-js": "^3.6.5",
+    "element-ui": "^2.14.1",
+    "nuxt": "^2.14.6",
+    "vue-chartjs": "^3.5.1",
+    "vue-loading-overlay": "^3.4.2",
+    "vue-select": "^3.10.8",
+    "vue-slick-carousel": "^1.0.6"
+  },
+  "devDependencies": {
+    "sass": "^1.32.0",
+    "sass-loader": "^10.1.0"
+  }
+}
